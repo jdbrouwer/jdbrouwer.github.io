@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a place for me to basicly put down random thoughts and issues I come across in my daily life and work. I thought the rest of the world be intrested in (just another) random shouter on the internet. Maybe someday you will stumble across some post of mine with the solution to some obscure issue you might have, like im having sometimes. (another reason im documenting most of this)
+
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Im a 22 year old System administrator and student, most of my work revolves around powershell, and what do and NOT to do with it.
+
 
 ### Contact me
 
