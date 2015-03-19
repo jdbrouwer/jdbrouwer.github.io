@@ -10,7 +10,7 @@ Just a place for me to basicly put down random thoughts and issues I come across
 
 ### More Information
 
-Im a 22 year old System administrator and student, most of my work revolves around powershell, and what do and NOT to do with it.
+Im a 20 year old System administrator and student, most of my work revolves around powershell, and what do and NOT to do with it.
 
 
 ### Contact me
